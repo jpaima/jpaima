@@ -45,6 +45,6 @@ Seguir creciendo como ingeniero de sistemas en equipos donde pueda aportar, apre
 
 - **OcupaPerú**: predicción de ocupación hotelera con datos abiertos de MINCETUR (2015-2025). Dashboard en Streamlit con modelos de clasificación, regresión y pronóstico, y un módulo CRUD sobre SQLite.
 - **Sistema BI de Gestión de Inventarios**: modelo dimensional en SQL Server, ETL en Pentaho y dashboards en Power BI.
-- **Análisis ABC Multicriterio**: segmentación de más de 2,500 productos con Python y visualización en Power BI.
+- **Análisis ABC Multicriterio**: segmentación de más de 2,547 productos con Python y visualización en Power BI.
 
 📍 Lima, Perú
