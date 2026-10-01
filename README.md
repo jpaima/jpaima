@@ -1,14 +1,6 @@
 # Hola, soy Jorge Enrique Paima La Torre👋
 
-**Ingeniero de Sistemas** (en formación, UNMSM, Tercio Superior) con interés en las bases de datos, inteligencia de negocios, el análisis de datos y la construcción de soluciones de software que resuelvan problemas reales.
-
-Me gusta aprender de forma constante, trabajar en equipo y convertir datos en información útil para tomar decisiones.
-
----
-
-## 🎯 Lo que busco
-
-Seguir creciendo como ingeniero de sistemas en equipos donde pueda aportar, aprender de profesionales con más experiencia y participar en proyectos con impacto real.
+**Ingeniero de Sistemas** (en formación, UNMSM, Tercio Superior) con interés en las bases de datos, inteligencia de negocios, el análisis de datos y la construcción de soluciones de software que resuelvan problemas reales. Me gusta aprender de forma constante, trabajar en equipo y convertir datos en información útil para tomar decisiones. Seguir creciendo como ingeniero de sistemas en equipos donde pueda aportar, aprender de profesionales con más experiencia y participar en proyectos con impacto real.
 
 ## 🛠️ Herramientas que manejo
 
