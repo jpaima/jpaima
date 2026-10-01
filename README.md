@@ -27,6 +27,3 @@ Aportar valor como ingeniero de sistemas en equipos de alto desempeño, aplicand
  
 - Ingeniería de Sistemas, Universidad Nacional Mayor de San Marcos (2022 - actualidad)
 - Inglés avanzado (C1), Centro de Idiomas PUCP
-## Contacto
- 
-[LinkedIn](https://www.linkedin.com/in/jorge-enrique-paima-la-torre-75131b39b/) · [jorgepaimalatorre@gmail.com](mailto:jorgepaimalatorre@gmail.com) · Lima, Perú
