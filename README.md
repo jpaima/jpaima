@@ -22,7 +22,7 @@ Aportar valor como ingeniero de sistemas en equipos de alto desempeño, aplicand
  
 - **OcupaPerú**: sistema predictivo de ocupación hotelera con datos abiertos de MINCETUR (2015-2025), bajo la metodología CRISP-DM. Integra modelos de clasificación, regresión y pronóstico.
 - **Sistema BI de Gestión de Inventarios**: modelo dimensional en SQL Server, proceso ETL en Pentaho y dashboards en Power BI.
-- **Análisis ABC Multicriterio**: segmentación de más de 2,500 productos por valor, con automatización de la limpieza de datos en Python.
+- **Análisis ABC Multicriterio**: segmentación de más de 2,547 productos por valor, con automatización de la limpieza de datos en Python.
 ## Formación
  
 - Ingeniería de Sistemas, Universidad Nacional Mayor de San Marcos (2022 - actualidad)
