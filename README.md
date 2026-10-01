@@ -1,8 +1,7 @@
 # Jorge Enrique Paima La Torre
  
-**Ingeniero de Sistemas** | Bases de datos · Análisis de datos · Automatización de procesos
- 
-Estudiante de Ingeniería de Sistemas en la Universidad Nacional Mayor de San Marcos (Tercio Superior), con experiencia en modelado de datos, procesos ETL y construcción de dashboards. Oriento mi trabajo a convertir datos en información confiable para la toma de decisiones, con disciplina, trabajo en equipo y aprendizaje continuo.
+Estudiante de Ingeniería de Sistemas en la Universidad Nacional Mayor de San Marcos (Tercio Superior). Experiencia en modelado y consultas en SQL Server, procesos ETL, automatización de limpieza de datos con Python y
+construcción de dashboards en Power BI. Inglés avanzado (C1) y formación complementaria en Data Analytics, Machine Learning, Power Apps y Power Automate.
  
 ## Objetivo
  
