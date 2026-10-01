@@ -1,6 +1,6 @@
 # Hola, soy Jorge Enrique Paima La Torre👋
 
-**Ingeniero de Sistemas** (en formación, UNMSM, Tercio Superior) con interés en las bases de datos, el análisis de datos y la construcción de soluciones de software que resuelvan problemas reales.
+**Ingeniero de Sistemas** (en formación, UNMSM, Tercio Superior) con interés en las bases de datos, inteligencia de negocios, el análisis de datos y la construcción de soluciones de software que resuelvan problemas reales.
 
 Me gusta aprender de forma constante, trabajar en equipo y convertir datos en información útil para tomar decisiones.
 
@@ -43,20 +43,10 @@ Seguir creciendo como ingeniero de sistemas en equipos donde pueda aportar, apre
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 📚 Aprendiendo ahora
-
-- Machine Learning con Python
-- Gestión y seguridad de bases de datos
-
 ## 🚀 Proyectos destacados
 
 - **OcupaPerú**: predicción de ocupación hotelera con datos abiertos de MINCETUR (2015-2025). Dashboard en Streamlit con modelos de clasificación, regresión y pronóstico, y un módulo CRUD sobre SQLite.
 - **Sistema BI de Gestión de Inventarios**: modelo dimensional en SQL Server, ETL en Pentaho y dashboards en Power BI.
 - **Análisis ABC Multicriterio**: segmentación de más de 2,500 productos con Python y visualización en Power BI.
-
-## 📫 Contacto
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-enrique-paima-la-torre-75131b39b/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgepaimalatorre@gmail.com)
 
 📍 Lima, Perú
